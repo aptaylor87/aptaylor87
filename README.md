@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Alex P. Taylor, a seasoned solutions engineer with a strong background in customer success and a newfound passion for web development. Recently completing a software engineering bootcamp with Springboard, I'm now eager to apply my diverse skill set to dynamic projects. With expertise in tailoring technical solutions and driving product improvements, I bring a unique blend of experience and enthusiasm to every endeavor.
+
+
+I'm a seasoned solutions engineer with a strong background in customer success and a newfound passion for web development. Recently completing a software engineering bootcamp with Springboard, I'm now eager to apply my diverse skill set to dynamic projects. With expertise in tailoring technical solutions and driving product improvements, I bring a unique blend of experience and enthusiasm to every endeavor.
+
+I am currently looking for a new role, and if you're interested in learning more about me or contacting me the best place for both is my [LinkedIn Profile](https://www.linkedin.com/in/alex-taylor-seattle/). 
 
 <!--
 **aptaylor87/aptaylor87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
